@@ -1,0 +1,24 @@
+{
+  "feeds": [
+    {
+      "source": "Google Alerts: Artificial Intelligence",
+      "url": "https://www.google.de/alerts/feeds/01716927728105054277/15322070935433069508"
+    },
+    {
+      "source": "Google Alerts: LLMs",
+      "url": "https://www.google.de/alerts/feeds/01716927728105054277/18304773099351281525"
+    },
+    {
+      "source": "Google Alerts: Deep Learning",
+      "url": "https://www.google.de/alerts/feeds/01716927728105054277/13507426884397162731"
+    },
+    {
+      "source": "Google Alerts: Generative AI",
+      "url": "https://www.google.de/alerts/feeds/01716927728105054277/11266972853742290045"
+    },
+    {
+      "source": "Arxiv.org Artificial Intelligence",
+      "url": "https://rss.arxiv.org/rss/cs.AI"
+    }
+  ]
+}
